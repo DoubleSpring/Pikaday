@@ -9,7 +9,8 @@
   ],
   "main": [
     "./pikaday.js",
-    "./css/pikaday.css"
+    "./css/pikaday.css",
+    "./plugins/pikaday.jquery.js"
   ],
   "dependencies": {},
   "ignore": [
